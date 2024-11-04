@@ -1,0 +1,4 @@
+__pycache__
+.venv
+*.p4i
+*.json
